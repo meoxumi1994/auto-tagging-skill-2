@@ -1,0 +1,151 @@
+Accelerator Physics:10
+Adaptation and Self-Organizing Systems:127
+Algebraic Geometry:126
+Algebraic Topology:91
+Analysis of PDEs:39
+Applications:444
+Applied Physics:29
+Artificial Intelligence:5677
+Astrophysics of Galaxies:10
+Atmospheric and Oceanic Physics:30
+Atomic Physics:5
+Atomic and Molecular Clusters:1
+Audio and Speech Processing:352
+Biological Physics:51
+Biomolecules:49
+Category Theory:87
+Cell Behavior:5
+Cellular Automata and Lattice Gases:44
+Chaotic Dynamics:62
+Chemical Physics:42
+Classical Analysis and ODEs:39
+Classical Physics:14
+Cluster Computing:2722
+Combinatorics:1376
+Commutative Algebra:54
+Complex Variables:8
+Computation:205
+Computation and Language:4830
+Computational Complexity:1369
+Computational Engineering:660
+Computational Finance:25
+Computational Geometry:943
+Computational Physics:205
+Computer Science and Game Theory:1449
+Computer Vision and Pattern Recognition:11381
+Computers and Society:2126
+Cosmology and Nongalactic Astrophysics:11
+Cryptography and Security:3041
+Data Analysis:272
+Data Structures and Algorithms:3517
+Databases:1084
+Differential Geometry:32
+Digital Libraries:660
+Discrete Mathematics:1716
+Disordered Systems and Neural Networks:149
+Distributed:2722
+Dynamical Systems:301
+Earth and Planetary Astrophysics:4
+Econometrics:25
+Economics:47
+Emerging Technologies:496
+Exactly Solvable and Integrable Systems:4
+Finance:660
+Fluid Dynamics:66
+Formal Languages and Automata Theory:671
+Functional Analysis:91
+General Finance:39
+General Literature:23
+General Mathematics:1
+General Relativity and Quantum Cosmology:22
+General Topology:26
+Genomics:86
+Geometric Topology:27
+Geophysics:32
+Graphics:501
+Group Theory:113
+Hardware Architecture:380
+High Energy Astrophysical Phenomena:9
+High Energy Physics - Experiment:32
+High Energy Physics - Lattice:16
+High Energy Physics - Phenomenology:20
+High Energy Physics - Theory:21
+History and Overview:25
+History and Philosophy of Physics:6
+Human-Computer Interaction:1403
+Image and Video Processing:113
+Information Retrieval:1584
+Information Theory:7715
+Instrumentation and Detectors:40
+Instrumentation and Methods for Astrophysics:148
+Learning:10552
+Logic:271
+Logic in Computer Science:2296
+Machine Learning:6351
+Materials Science:26
+Mathematical Finance:4
+Mathematical Physics:107
+Mathematical Software:307
+Medical Physics:104
+Mesoscale and Nanoscale Physics:35
+Methodology:286
+Metric Geometry:73
+Molecular Networks:64
+Multiagent Systems:661
+Multimedia:682
+Networking and Internet Architecture:3007
+Neural and Evolutionary Computing:2187
+Neurons and Cognition:415
+Nuclear Experiment:2
+Nuclear Theory:3
+Number Theory:162
+Numerical Analysis:1210
+Operating Systems:95
+Operator Algebras:12
+Optics:87
+Optimization and Control:1985
+Other Computer Science:257
+Other Condensed Matter:8
+Other Quantitative Biology:23
+Other Statistics:28
+Parallel:2722
+Pattern Formation and Solitons:13
+Performance:479
+Physics Education:16
+Physics and Society:1561
+Plasma Physics:4
+Popular Physics:6
+Populations and Evolution:142
+Portfolio Management:11
+Pricing of Securities:3
+Probability:496
+Programming Languages:1072
+Quantitative Methods:278
+Quantum Algebra:2
+Quantum Gases:4
+Quantum Physics:777
+Representation Theory:19
+Rings and Algebras:60
+Risk Management:7
+Robotics:2497
+Science:660
+Signal Processing:351
+Social and Information Networks:3082
+Soft Condensed Matter:15
+Software Engineering:1565
+Solar and Stellar Astrophysics:12
+Sound:880
+Space Physics:3
+Spectral Theory:23
+Statistical Finance:21
+Statistical Mechanics:217
+Statistics Theory:432
+Statistics and Probability:272
+Strongly Correlated Electrons:10
+Subcellular Processes:3
+Superconductivity:3
+Symbolic Computation:310
+Symplectic Geometry:1
+Systems and Control:2951
+Tissues and Organs:16
+Trading and Market Microstructure:10

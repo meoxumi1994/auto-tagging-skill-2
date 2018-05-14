@@ -1,0 +1,49 @@
+Applied Physics:1
+Artificial Intelligence:2210
+Cluster Computing:1767
+Combinatorics:1
+Computation and Language:2988
+Computational Complexity:628
+Computational Engineering:321
+Computational Geometry:658
+Computer Science and Game Theory:1027
+Computer Vision and Pattern Recognition:9765
+Computers and Society:1265
+Cryptography and Security:2176
+Data Structures and Algorithms:2440
+Databases:845
+Digital Libraries:512
+Discrete Mathematics:489
+Distributed:1767
+Emerging Technologies:332
+Finance:321
+Formal Languages and Automata Theory:468
+General Literature:9
+Graphics:252
+Hardware Architecture:312
+Human-Computer Interaction:675
+Information Retrieval:631
+Information Theory:8476
+Learning:1888
+Logic in Computer Science:1634
+Mathematical Software:108
+Multiagent Systems:144
+Multimedia:285
+Networking and Internet Architecture:2874
+Neural and Evolutionary Computing:621
+Numerical Analysis:172
+Operating Systems:66
+Optimization and Control:4
+Other Computer Science:460
+Other Statistics:1
+Parallel:1767
+Performance:125
+Programming Languages:718
+Robotics:1338
+Science:321
+Signal Processing:1
+Social and Information Networks:708
+Software Engineering:1707
+Sound:261
+Symbolic Computation:190
+Systems and Control:1904

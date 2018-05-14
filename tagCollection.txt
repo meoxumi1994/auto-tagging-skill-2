@@ -1,0 +1,127 @@
+Adaptation and Self-Organizing Systems:10
+Algebraic Geometry:13
+Algebraic Topology:4
+Analysis of PDEs:2
+Applications:31
+Applied Physics:3
+Artificial Intelligence:453
+Astrophysics of Galaxies:1
+Atmospheric and Oceanic Physics:1
+Audio and Speech Processing:17
+Biological Physics:5
+Category Theory:15
+Cellular Automata and Lattice Gases:3
+Chaotic Dynamics:5
+Chemical Physics:4
+Classical Analysis and ODEs:1
+Classical Physics:2
+Cluster Computing:275
+Combinatorics:134
+Commutative Algebra:5
+Computation:10
+Computation and Language:335
+Computational Complexity:132
+Computational Engineering:68
+Computational Finance:2
+Computational Geometry:78
+Computational Physics:14
+Computer Science and Game Theory:112
+Computer Vision and Pattern Recognition:864
+Computers and Society:190
+Cryptography and Security:327
+Data Analysis:30
+Data Structures and Algorithms:255
+Databases:153
+Differential Geometry:1
+Digital Libraries:60
+Discrete Mathematics:164
+Disordered Systems and Neural Networks:7
+Distributed:275
+Dynamical Systems:19
+Earth and Planetary Astrophysics:1
+Econometrics:1
+Economics:6
+Emerging Technologies:56
+Finance:68
+Fluid Dynamics:2
+Formal Languages and Automata Theory:65
+Functional Analysis:8
+General Finance:3
+General Literature:1
+General Relativity and Quantum Cosmology:1
+General Topology:5
+Genomics:6
+Geometric Topology:1
+Geophysics:1
+Graphics:56
+Group Theory:7
+Hardware Architecture:43
+High Energy Astrophysical Phenomena:1
+High Energy Physics - Experiment:2
+High Energy Physics - Lattice:1
+High Energy Physics - Phenomenology:4
+High Energy Physics - Theory:2
+History and Overview:4
+Human-Computer Interaction:137
+Image and Video Processing:9
+Information Retrieval:161
+Information Theory:1203
+Instrumentation and Detectors:2
+Instrumentation and Methods for Astrophysics:23
+Learning:690
+Logic:24
+Logic in Computer Science:261
+Machine Learning:366
+Materials Science:1
+Mathematical Physics:10
+Mathematical Software:21
+Medical Physics:3
+Mesoscale and Nanoscale Physics:4
+Methodology:19
+Metric Geometry:3
+Molecular Networks:7
+Multiagent Systems:59
+Multimedia:57
+Networking and Internet Architecture:379
+Neural and Evolutionary Computing:153
+Neurons and Cognition:40
+Nuclear Experiment:1
+Number Theory:13
+Numerical Analysis:107
+Operating Systems:9
+Operator Algebras:1
+Optics:7
+Optimization and Control:125
+Other Computer Science:31
+Other Quantitative Biology:2
+Other Statistics:1
+Parallel:275
+Pattern Formation and Solitons:1
+Performance:34
+Physics Education:2
+Physics and Society:149
+Popular Physics:1
+Populations and Evolution:8
+Portfolio Management:1
+Probability:46
+Programming Languages:111
+Quantitative Methods:29
+Quantum Physics:66
+Representation Theory:1
+Rings and Algebras:9
+Robotics:177
+Science:68
+Signal Processing:15
+Social and Information Networks:323
+Soft Condensed Matter:1
+Software Engineering:157
+Sound:49
+Spectral Theory:1
+Statistical Finance:4
+Statistical Mechanics:18
+Statistics Theory:37
+Statistics and Probability:30
+Superconductivity:1
+Symbolic Computation:44
+Systems and Control:235
+Tissues and Organs:4
